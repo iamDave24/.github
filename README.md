@@ -39,4 +39,4 @@ else:
     # Display result
     print(result)
 
-print("\nThanks for playing! - From Lubem's first Python game.")
+print("\nThanks for playing!.")
